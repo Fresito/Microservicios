@@ -1,0 +1,21 @@
+# Archivos de compilación y dependencias
+bin/
+obj/
+*.log
+
+# Configuración de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Configuración de entorno local
+appsettings.Development.json
+
+# Paquetes de dependencias
+packages/
+*.nupkg
+
+# Archivos del sistema
+Thumbs.db
